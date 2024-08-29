@@ -4,7 +4,7 @@
 
 Official implementation of ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model
 
-[Fangfu Liu](https://liuff19.github.io/)*, [Wenqiang Sun](https://github.com/wenqsun)*, Hanyang Wang, Yikai Wang, Haowen Sun, Junliang Ye, Jun Zhang, Yueqi Duan.
+[Fangfu Liu](https://liuff19.github.io/), [Wenqiang Sun](https://github.com/wenqsun), Hanyang Wang, Yikai Wang, Haowen Sun, Junliang Ye, Jun Zhang, Yueqi Duan.
 
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
