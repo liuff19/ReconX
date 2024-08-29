@@ -16,11 +16,11 @@ Abstract: *Advancements in 3D scene reconstruction have transformed 2D images fr
 </p>
 
 
-## Subject-Driven 3D Content Generation
+## Method
 
-Visual results of Make-Your-3D on different subjects with customized text inputs. The multi-view results demonstrate that our method can generate 3D assets with high-fidelity, 3D consistency, subject preservation, and faithfulness to the text prompts.
+Overall Framework of ReconX. Given sparse-view images as input, we first build a global point cloud and project it into 3D context representation space as 3D structure guidance. Then we inject the 3D structure guidance into the video diffusion process and guide it to generate 3D consistent video frames. Finally, we reconstruct the 3D scene from the generated video through Gaussian Splatting with a 3D confidence-aware and robust scene optimization scheme. In this way, we unleash the strong power of the video diffusion model to reconstruct intricate 3D scenes from very sparse views.
 <p align="center">
-    <img src="assets/More-results.png">
+    <img src="assets/method.png">
 </p>
 
 
