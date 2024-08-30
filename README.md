@@ -1,6 +1,6 @@
 # ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model
 
-[**Paper**](https://arxiv.org/abs/2408.16767) | [**Project Page**](https://liuff19.github.io/ReconX/) | [**Video**](https://liuff19.github.io/ReconX/)
+[**Paper**](https://arxiv.org/abs/2408.16767) | [**Project Page**](https://liuff19.github.io/ReconX/) | [**Video**](https://youtu.be/UuL2nP5rJcI)
 
 Official implementation of ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model
 
