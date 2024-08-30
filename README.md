@@ -39,12 +39,13 @@ Overall Framework of ReconX. Given sparse-view images as input, we first build a
 ## BibTeX
 
 ```bibtex
-@misc{liu2024ReconX,
-        title={ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model}, 
-        author={Fangfu Liu and Wenqiang Sun and Hanyang Wang and Yikai Wang and Haowen Sun and Junliang Ye and Jun Zhang and Yueqi Duan},
-        year={2024},
-        eprint={2408},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV}
-      }
+@misc{liu2024reconxreconstructscenesparse,
+      title={ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model}, 
+      author={Fangfu Liu and Wenqiang Sun and Hanyang Wang and Yikai Wang and Haowen Sun and Junliang Ye and Jun Zhang and Yueqi Duan},
+      year={2024},
+      eprint={2408.16767},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.16767}, 
+}
 ```
