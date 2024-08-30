@@ -15,6 +15,9 @@ Abstract: *Advancements in 3D scene reconstruction have transformed 2D images fr
     <img src="assets/teaser.png">
 </p>
 
+## Free Rendering Results
+https://github.com/user-attachments/assets/3b52824a-80a2-46f6-8e65-ef95c9f27a12
+
 
 ## Method
 
