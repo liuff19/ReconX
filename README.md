@@ -16,7 +16,12 @@ Abstract: *Advancements in 3D scene reconstruction have transformed 2D images fr
 </p>
 
 ## Free Rendering Results
-https://github.com/user-attachments/assets/3b52824a-80a2-46f6-8e65-ef95c9f27a12
+https://github.com/user-attachments/assets/226e82de-ce9e-43d5-b073-dd94bbf14eb8
+
+https://github.com/user-attachments/assets/56f38186-7115-4215-bac6-82b51d5f0dff
+
+https://github.com/user-attachments/assets/11326df6-3e2b-4d33-9263-1fe7e5c9e9d1
+
 
 
 ## Method
